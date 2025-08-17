@@ -41,3 +41,4 @@ Power BI → Dashboard & Data Visualization
 CSV (Excel / Python Pandas compatible) → Dataset format
 
 # 📷 Dashboard Preview
+https://github.com/sanchita2004/HR-ANALYTICS-DASHBORD/blob/main/Screenshot%202025-08-17%20205430.png
